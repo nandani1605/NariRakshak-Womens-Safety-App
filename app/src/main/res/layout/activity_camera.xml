@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#F3E5F5"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginBottom="20dp"
+        android:background="#E1BEE7"
+        android:scaleType="fitCenter"
+        android:contentDescription="Captured Image" />
+
+    <Button
+        android:id="@+id/btnCapture"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="#311B92"
+        android:text="@string/camera_capture_btn"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btnUpload"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:backgroundTint="#311B92"
+        android:text="@string/camera_upload_btn"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"/>
+
+</LinearLayout>

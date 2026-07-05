@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NariRakshak">
+
+        <!-- 1. Splash Screen (Launcher) -->
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:configChanges="locale|layoutDirection">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 2. Auth Screens -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false"
+            android:configChanges="locale|layoutDirection" />
+        <activity
+            android:name=".SignupActivity"
+            android:exported="false"
+            android:configChanges="locale|layoutDirection" />
+
+        <!-- 3. Dashboard -->
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false"
+            android:configChanges="locale|layoutDirection" />
+
+        <!-- 4. Features -->
+        <activity
+            android:name=".ContactsActivity"
+            android:exported="false"
+            android:configChanges="locale|layoutDirection" />
+        <activity
+            android:name=".TipsActivity"
+            android:exported="false"
+            android:configChanges="locale|layoutDirection" />
+        <activity
+            android:name=".CameraActivity"
+            android:exported="false"
+            android:configChanges="locale|layoutDirection" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false"
+            android:configChanges="locale|layoutDirection" />
+        <activity
+            android:name=".HelplinesActivity"
+            android:exported="false"
+            android:configChanges="locale|layoutDirection" />
+        <activity
+            android:name=".SafePlacesActivity"
+            android:configChanges="locale|layoutDirection" />
+        <activity
+            android:name=".SettingsActivity"
+            android:configChanges="locale|layoutDirection" />
+        <activity
+            android:name=".AboutUsActivity"
+            android:configChanges="locale|layoutDirection" />
+
+        <activity
+            android:name=".EvidenceHistoryActivity"
+            android:configChanges="locale|layoutDirection" />
+
+        <!-- Shake Service -->
+        <service
+            android:name=".ShakeService"
+            android:enabled="true"
+            android:exported="false"
+            android:foregroundServiceType="specialUse" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDtirKvsXajWmGQDN9_EhjVaIWmWNmgka4" />
+
+        <receiver
+            android:name=".BootReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

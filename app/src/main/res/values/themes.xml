@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NariRakshak" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- Shared Element Transition enable karne ke liye -->
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="Theme.NariRakshak" parent="Base.Theme.NariRakshak" />
+</resources>

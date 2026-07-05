@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#F3E5F5">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contacts_title"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#311B92"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"/>
+
+    <EditText
+        android:id="@+id/etContactName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/contacts_hint_name"
+        android:textColor="#000000"
+        android:background="#FFFFFF"
+        android:padding="12dp"
+        android:layout_marginBottom="10dp"
+        android:elevation="2dp"/>
+
+    <EditText
+        android:id="@+id/etContactNumber"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/contacts_hint_phone"
+        android:inputType="phone"
+        android:textColor="#000000"
+        android:background="#FFFFFF"
+        android:padding="12dp"
+        android:layout_marginBottom="10dp"
+        android:elevation="2dp"/>
+
+    <Button
+        android:id="@+id/btnSaveContact"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="@string/contacts_btn_save"
+        android:backgroundTint="#311B92"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold"/>
+
+    <ListView
+        android:id="@+id/listContacts"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="#D1C4E9"
+        android:dividerHeight="1dp"/>
+</LinearLayout>

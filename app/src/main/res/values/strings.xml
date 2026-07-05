@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NariRakshak</string>
+
+    <string name="btn_sos">SOS</string>
+    <string name="btn_siren">Siren</string>
+    <string name="btn_siren_stop">Stop</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_contacts">Contacts</string>
+    <string name="btn_helplines">Helplines</string>
+    <string name="btn_tips">Tips &amp; Videos</string>
+    <string name="btn_safe_places">Map</string>
+    <string name="btn_profile">Profile</string>
+    <string name="btn_settings">Settings</string>
+
+    <string name="profile_hint_name">Enter your name</string>
+    <string name="profile_hint_phone">Enter phone number</string>
+    <string name="profile_hint_email">Email</string>
+    <string name="profile_save">Save Profile</string>
+    <string name="profile_logout">Logout</string>
+
+    <string name="sos_sending">🆘 Sending SOS…</string>
+    <string name="sos_message">🆘 SOS! I am in danger. My Location: </string>
+    <string name="sos_stay_safe">✅ SOS Sent. Stay Safe!</string>
+
+    <string name="dialog_threat_title">⚠️ Threat Detected!</string>
+    <string name="dialog_threat_message">Are you safe? Auto-SOS will trigger in %d seconds…</string>
+    <string name="dialog_i_am_safe">I AM SAFE</string>
+    <string name="dialog_help_me">HELP ME NOW!</string>
+
+    <string name="dialog_evidence_title">📸 Evidence Photo?</string>
+    <string name="dialog_evidence_message">Do you want to capture evidence photo?\n(It will be saved and sent as proof)</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+
+    <string name="camera_capturing">📸 Capturing Evidence…</string>
+    <string name="camera_uploading">Uploading photo…</string>
+    <string name="camera_saved">✅ Photo saved for SOS!</string>
+    <string name="camera_error">Camera error. Try again.</string>
+    <string name="camera_capture_btn">Capture Photo</string>
+    <string name="camera_upload_btn">Upload and Get Link</string>
+    <string name="camera_capture_first">Please capture an image first!</string>
+
+    <string name="evidence_proof">EVIDENCE PROOF: </string>
+    <string name="evidence_sent">✅ Evidence Sent!</string>
+
+    <string name="settings_title">SOS Settings</string>
+    <string name="settings_language">App Language / भाषा</string>
+    <string name="settings_language_changed">Language changed! Restarting…</string>
+    <string name="settings_switch_camera">Capture Photo on SOS</string>
+    <string name="settings_switch_location">Share Location</string>
+
+    <string name="notif_title">NariRakshak Active</string>
+    <string name="notif_text">Protecting you in background… Shake to trigger SOS.</string>
+    <string name="notif_sos_title">🆘 SOS Alert Triggered!</string>
+    <string name="notif_sos_text">Shake detected — SOS and Location is being sent!</string>
+
+    <string name="error_no_camera">No camera app found!</string>
+    <string name="error_camera_permission">Camera permission denied!</string>
+
+    <string name="login_hint_email">Email</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="login_go_signup">"Don\'t have an account? Sign up"</string>
+
+    <string name="signup_title">Create Account</string>
+    <string name="signup_hint_name">Full Name</string>
+    <string name="signup_hint_phone">Phone Number</string>
+    <string name="signup_btn">Sign Up</string>
+
+    <string name="helplines_title">Emergency Helplines</string>
+    <string name="helpline_police">Police Emergency (112)</string>
+    <string name="helpline_women">Women Helpline (1091)</string>
+    <string name="helpline_ambulance">Ambulance (102)</string>
+    <string name="helpline_child">Child Helpline (1098)</string>
+
+    <string name="about_version">Version 1.0 (Advanced Security)</string>
+    <string name="about_how_to_use_title">📖 How to Use</string>
+    <string name="about_how_to_use_desc">1. Save trusted numbers in \'Contacts\'.\n2. Allow Camera &amp; Location permissions.\n3. Shake phone 3 times to trigger SOS.\n4. App will silently send location &amp; photo link.\n5. View saved evidence photos in Profile-(History).</string>
+    <string name="about_developed_by_title">👨‍💻 Developed By</string>
+    <string name="about_developed_by_desc">This project is developed by:\n• Nandani Prajapat\n• Apurva Das\n• Palak Bankar\n• Samaksh Joshi\n• Vanshika Bawaniya</string>
+    <string name="about_feedback_title">Report Incident or Feedback</string>
+    <string name="about_feedback_hint">Explain the issue or incident here…</string>
+    <string name="about_btn_submit">Submit Report</string>
+
+    <string name="contacts_title">Emergency Contacts</string>
+    <string name="contacts_hint_name">Contact Name</string>
+    <string name="contacts_hint_phone">Phone Number</string>
+    <string name="contacts_btn_save">Save Contact</string>
+
+    <string name="map_btn_police">Police Stations</string>
+    <string name="map_btn_hospital">Hospitals</string>
+    <string name="map_title_nearest">Nearest Safe Places</string>
+
+    <string name="tips_main_title">Safety &amp; Tips</string>
+    <string name="tips_shortcut_title">🚨 Secret SOS Shortcut</string>
+    <string name="tips_shortcut_desc">In an emergency, you don\'t need to open the app. Simply shake your phone rapidly 3 times. The app will silently capture an evidence photo using the back camera, upload it securely, and send your live location and photo link to your trusted contacts via SMS.</string>
+    <string name="tips_defense_title">🛡️ Basic Self-Defense</string>
+    <string name="tips_defense_desc">• Be Aware: Keep your phone away and pay attention to your surroundings when walking alone.\n\n• Trust Instincts: If a place or person feels unsafe, leave immediately. Don\'t worry about being polite.\n\n• Use Voice: Shout \'FIRE\' instead of \'HELP\'. People are more likely to respond quickly.\n\n• Weak Points: If attacked, strike hard at the attacker\'s eyes, nose, or throat.\n\n• Share Location: Always keep your live location shared with trusted family members.\n\n• Keep Distance: Maintain a safe 2-3 step distance from strangers.</string>
+    <string name="tips_video_heading">Watch Safety Videos</string>
+
+    <string name="item_btn_edit">EDIT</string>
+    <string name="item_btn_delete">DELETE</string>
+
+    <string name="map_placeholder_name">Safe Place Name</string>
+    <string name="map_placeholder_distance">0.0 km away</string>
+
+    <!-- Map Toasts -->
+    <string name="map_toast_location">Fetching location…</string>
+    <string name="map_toast_searching">Searching for %s near you…</string>
+    <string name="map_toast_not_found">No %s found in 5km radius</string>
+    <string name="map_toast_server_error">Server Busy! Please try again.</string>
+    <string name="map_toast_route">Finding route…</string>
+    <string name="map_toast_route_error">Could not fetch route. Check internet.</string>
+    <string name="map_distance_format">%.2f km away</string>
+
+    <string name="evidence_taken">Evidence Taken: </string>
+    <string name="url_label">URL: </string>
+    <string name="history_title">Evidence Logs</string>
+    <string name="tap_to_view">Tap to view image</string>
+</resources>

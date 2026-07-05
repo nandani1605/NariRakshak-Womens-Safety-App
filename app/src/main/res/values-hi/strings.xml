@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">नारी रक्षक</string>
+
+    <string name="btn_sos">SOS</string>
+    <string name="btn_siren">सायरन</string>
+    <string name="btn_siren_stop">बंद करें</string>
+    <string name="btn_camera">कैमरा</string>
+    <string name="btn_contacts">संपर्क</string>
+    <string name="btn_helplines">हेल्पलाइन</string>
+    <string name="btn_tips">सुझाव और वीडियो</string>
+    <string name="btn_safe_places">नक्शा</string>
+    <string name="btn_profile">प्रोफाइल</string>
+    <string name="btn_settings">सेटिंग्स</string>
+
+    <string name="profile_hint_name">अपना नाम दर्ज करें</string>
+    <string name="profile_hint_phone">फोन नंबर दर्ज करें</string>
+    <string name="profile_hint_email">ईमेल</string>
+    <string name="profile_save">प्रोफाइल सेव करें</string>
+    <string name="profile_logout">लॉगआउट</string>
+
+    <string name="sos_sending">🆘 SOS भेजा जा रहा है…</string>
+    <string name="sos_message">🆘 SOS! मैं खतरे में हूँ। मेरी लोकेशन: </string>
+    <string name="sos_stay_safe">✅ SOS भेज दिया। सुरक्षित रहें!</string>
+
+    <string name="dialog_threat_title">⚠️ खतरा महसूस हुआ!</string>
+    <string name="dialog_threat_message">क्या आप सुरक्षित हैं? %d सेकंड में SOS अपने आप भेजा जाएगा…</string>
+    <string name="dialog_i_am_safe">मैं सुरक्षित हूँ</string>
+    <string name="dialog_help_me">अभी मदद चाहिए!</string>
+
+    <string name="dialog_evidence_title">📸 सबूत की फोटो?</string>
+    <string name="dialog_evidence_message">क्या आप सबूत की फोटो लेना चाहती हैं?\n(यह सबूत के रूप में सेव &amp; भेजी जाएगी)</string>
+    <string name="dialog_yes">हाँ</string>
+    <string name="dialog_no">नहीं</string>
+
+    <string name="camera_capturing">📸 सबूत की फोटो ली जा रही है…</string>
+    <string name="camera_uploading">फोटो अपलोड हो रही है…</string>
+    <string name="camera_saved">✅ फोटो SOS के लिए सेव हो गई!</string>
+    <string name="camera_error">कैमरा में समस्या। दोबारा कोशिश करें।</string>
+    <string name="camera_capture_btn">फोटो लें</string>
+    <string name="camera_upload_btn">अपलोड करें और लिंक पाएं</string>
+    <string name="camera_capture_first">पहले फोटो लें!</string>
+
+    <string name="evidence_proof">सबूत: </string>
+    <string name="evidence_sent">✅ सबूत भेज दिया गया!</string>
+
+    <string name="settings_title">SOS सेटिंग्स</string>
+    <string name="settings_language">ऐप की भाषा</string>
+    <string name="settings_language_changed">भाषा बदली! दोबारा शुरू हो रहा है…</string>
+    <string name="settings_switch_camera">SOS पर फोटो लें</string>
+    <string name="settings_switch_location">लोकेशन शेयर करें</string>
+
+    <string name="notif_title">नारी रक्षक सक्रिय</string>
+    <string name="notif_text">पृष्ठभूमि में सुरक्षा हो रही है… SOS के लिए फोन हिलाएं।</string>
+    <string name="notif_sos_title">🆘 SOS अलर्ट!</string>
+    <string name="notif_sos_text">हिलाना महसूस हुआ — SOS और लोकेशन भेजी जा रही है!</string>
+
+    <string name="error_no_camera">कोई कैमरा ऐप नहीं मिला!</string>
+    <string name="error_camera_permission">कैमरा की अनुमति नहीं दी गई!</string>
+
+    <string name="login_hint_email">ईमेल</string>
+    <string name="login_hint_password">पासवर्ड</string>
+    <string name="login_btn">लॉगिन</string>
+    <string name="login_go_signup">खाता नहीं है? साइन अप करें</string>
+
+    <string name="signup_title">खाता बनाएं</string>
+    <string name="signup_hint_name">पूरा नाम</string>
+    <string name="signup_hint_phone">फोन नंबर</string>
+    <string name="signup_btn">साइन अप करें</string>
+
+    <string name="helplines_title">आपातकालीन हेल्पलाइन</string>
+    <string name="helpline_police">पुलिस आपातकाल (112)</string>
+    <string name="helpline_women">महिला हेल्पलाइन (1091)</string>
+    <string name="helpline_ambulance">एम्बुलेंस (102)</string>
+    <string name="helpline_child">बाल हेल्पलाइन (1098)</string>
+
+    <string name="about_version">संस्करण 1.0 (उन्नत सुरक्षा)</string>
+    <string name="about_how_to_use_title">📖 उपयोग कैसे करें</string>
+    <string name="about_how_to_use_desc">1. विश्वसनीय नंबरों को \'Contacts\' में सहेजें।\n2. कैमरा और लोकेशन अनुमति को Allow करें।\n3. SOS ट्रिगर करने के लिए phone को 3 बार हिलाएं (Shake)।\n4. ऐप चुपचाप लोकेशन और फोटो लिंक भेज देगा।\n5. प्रोफ़ाइल-(इतिहास) में सुरक्षित सबूत तस्वीरें देखें।</string>
+    <string name="about_developed_by_title">👨‍💻 डेवलपर टीम</string>
+    <string name="about_developed_by_desc">यह प्रोजेक्ट इनके द्वारा विकसित किया गया है:\n• नंदनी प्रजापत\n• अपूर्वा दास\n• पलक भानकर\n• समक्ष जोशी\n• वंशिका बावनिया</string>
+    <string name="about_feedback_title">घटना की रिपोर्ट या फीडबैक दें</string>
+    <string name="about_feedback_hint">यहाँ समस्या या घटना के बारे में बताएं…</string>
+    <string name="about_btn_submit">रिपोर्ट सबमिट करें</string>
+
+    <string name="contacts_title">आपातकालीन संपर्क</string>
+    <string name="contacts_hint_name">संपर्क का नाम</string>
+    <string name="contacts_hint_phone">फ़ोन नंबर</string>
+    <string name="contacts_btn_save">संपर्क सुरक्षित करें</string>
+
+    <string name="map_btn_police">पुलिस स्टेशन</string>
+    <string name="map_btn_hospital">अस्पताल</string>
+    <string name="map_title_nearest">निकटतम सुरक्षित स्थान</string>
+
+    <string name="tips_main_title">सुरक्षा और सुझाव</string>
+    <string name="tips_shortcut_title">🚨 गुप्त SOS शॉर्टकट</string>
+    <string name="tips_shortcut_desc">आपातकालीन स्थिति में, आपको ऐप खोलने की आवश्यकता नहीं है। बस अपने फोन को तेजी से 3 बार हिलाएं। ऐप चुपचाप बैक कैमरे का उपयोग करके एक सबूत की फोटो लेगा, उसे सुरक्षित रूप से अपलोड करेगा, और एसएमएस के माध्यम से आपके लाइव लोकेशन और फोटो लिंक को आपके विश्वसनीय संपर्कों को भेज देगा।</string>
+    <string name="tips_defense_title">🛡️ बुनियादी आत्म-रक्षा</string>
+    <string name="tips_defense_desc">• जागरूक रहें: अकेले चलते समय अपना फोन दूर रखें और अपने आसपास के माहौल पर ध्यान दें।\n\n• प्रवृत्ति पर भरोसा करें: यदि कोई स्थान या व्यक्ति असुरक्षित लगता है, तो तुरंत वहां से चले जाएं। विनम्र होने की चिंता न करें।\n\n• आवाज का प्रयोग करें: \'मदद\' के बजाय \'आग\' चिल्लाएं। लोग तेजी से प्रतिक्रिया दे सकते हैं।\n\n• कमजोर बिंदु: यदि हमला किया जाता है, तो हमलावर की आंखों, नाक या गले पर जोर से वार करें।\n\n• लोकेशन साझा करें: हमेशा अपने लाइव लोकेशन को परिवार के विश्वसनीय सदस्यों के साथ साझा रखें।\n\n• दूरी बनाए रखें: अजनबियों से सुरक्षित 2-3 कदम की दूरी बनाए रखें।</string>
+    <string name="tips_video_heading">सुरक्षा वीडियो देखें</string>
+
+    <string name="item_btn_edit">सुधारें</string>
+    <string name="item_btn_delete">हटाएं</string>
+
+    <string name="map_placeholder_name">सुरक्षित स्थान का नाम</string>
+    <string name="map_placeholder_distance">0.0 किमी दूर</string>
+
+    <string name="map_toast_location">लोकेशन खोजी जा रही है…</string>
+    <string name="map_toast_searching">आपके आस-पास %s खोजा जा रहा है…</string>
+    <string name="map_toast_not_found">5 किमी के दायरे में कोई %s नहीं मिला</string>
+    <string name="map_toast_server_error">सर्वर व्यस्त है! कृपया पुनः प्रयास करें।</string>
+    <string name="map_toast_route">रास्ता खोजा जा रहा है…</string>
+    <string name="map_toast_route_error">रास्ता नहीं मिला। इंटरनेट चेक करें।</string>
+    <string name="map_distance_format">%.2f किमी दूर</string>
+
+    <string name="evidence_taken">सबूत लिया गया: </string>
+    <string name="url_label">यूआरएल: </string>
+    <string name="history_title">सबूत इतिहास</string>
+    <string name="tap_to_view">तस्वीर देखने के लिए टैप करें</string>
+</resources>
