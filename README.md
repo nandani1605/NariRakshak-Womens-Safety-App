@@ -34,36 +34,27 @@ NariRakshak is a women's safety Android application designed to provide quick em
 - SensorManager (Accelerometer)
 - SharedPreferences
 - Firebase Realtime Database
+- Android SDK
+- Gradle Build System
 
 - ## Screenshots
 
 The application includes the following interfaces:
 
-- Login Screen
-- Home Dashboard
-- Emergency Contacts
-- SOS Feature
-- Live Location Tracking
-- Nearby Police Stations & Hospitals
-- Evidence History
-- Safety Tips
-- Safety Videos
-- Feedback
+- login-screen.jpeg
+- sign-in.jpeg
+- home-dashboard.jpeg
+- emergency-helpline.jpeg
+- capture-photo.jpeg
+- emergency-contacts.jpeg
+- profile.jpeg
+- safety-tips.jpeg
+- safety-videos.jpeg
+- Map.jpeg
+- settings.jpeg
+- evidence-history.jpeg
+- feedback.jpeg
 
-- ## Project Structure
-
-NariRakshak
-│
-├── app
-│   ├── java
-│   ├── res
-│   ├── AndroidManifest.xml
-│   └── build.gradle.kts
-│
-├── gradle
-├── build.gradle.kts
-├── settings.gradle.kts
-└── README.md
 
 ## Future Enhancements
 
@@ -88,7 +79,5 @@ Computer Science Diploma Graduate
 
 Android Developer | Web Developer | Java | Firebase
 
-LinkedIn: (We'll add your LinkedIn profile after it is fully optimized.)
+LinkedIn: https://www.linkedin.com/in/nandani-prajapat-3124462a3/?skipRedirect=true
 
-- Android SDK
-- Gradle Build System
