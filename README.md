@@ -43,57 +43,99 @@ The application includes the following interfaces:
 
 ## Screenshots
 
-### Login Screen
+## Screenshots
 
-![Login Screen](screenshots/login-screen.jpeg)
+### Authentication
 
-### Sign In
+<p align="center">
+  <div align="center">
+    <b>Login Screen</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Sign In Screen</b>
+  </div>
 
-![Sign In](screenshots/sign-In.jpeg)
+  <img src="screenshots/login-screen.jpeg" width="250"/>
+  <img src="screenshots/sign-In.jpeg" width="250"/>
+</p>
 
-### Home Dashboard
+---
 
-![Home Dashboard](screenshots/home-dashboard.jpeg)
+### Dashboard & Emergency
 
-### Emergency Helpline
+<p align="center">
+  <div align="center">
+    <b>Home Dashboard</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Emergency Helpline</b>
+  </div>
 
-![Emergency Helpline](screenshots/emergency-helpline.jpeg)
+  <img src="screenshots/home-dashboard.jpeg" width="250"/>
+  <img src="screenshots/emergency-helpline.jpeg" width="250"/>
+</p>
 
-### Capture Photo
+---
 
-![Capture Photo](screenshots/capture-photo.jpeg)
+### Emergency Features
 
-### Emergency Contacts
+<p align="center">
+  <div align="center">
+    <b>Capture Photo</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Emergency Contacts</b>
+  </div>
 
-![Emergency Contacts](screenshots/emergency-contacts.jpeg)
+  <img src="screenshots/capture-photo.jpeg" width="250"/>
+  <img src="screenshots/emergency-contacts.jpeg" width="250"/>
+</p>
 
-### Profile
+---
 
-![Profile](screenshots/profile.jpeg)
+### User Profile
 
-### Safety Tips
+<p align="center">
+  <div align="center">
+    <b>Profile</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Settings</b>
+  </div>
 
-![Safety Tips](screenshots/safety-tips.jpeg)
+  <img src="screenshots/profile.jpeg" width="250"/>
+  <img src="screenshots/settings.jpeg" width="250"/>
+</p>
 
-### Safety Videos
+---
 
-![Safety Videos](screenshots/safety-videos.jpeg)
+### Safety Resources
 
-### Map
+<p align="center">
+  <div align="center">
+    <b>Safety Tips</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Safety Videos</b>
+  </div>
 
-![Map](screenshots/Map.jpeg)
+  <img src="screenshots/safety-tips.jpeg" width="250"/>
+  <img src="screenshots/safety-videos.jpeg" width="250"/>
+</p>
 
-### Settings
+---
 
-![Settings](screenshots/settings.jpeg)
+### Navigation & History
 
-### Evidence History
+<p align="center">
+  <div align="center">
+    <b>Map</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Evidence History</b>
+  </div>
 
-![Evidence History](screenshots/evidence-history.jpeg)
+  <img src="screenshots/Map.jpeg" width="250"/>
+  <img src="screenshots/evidence-history.jpeg" width="250"/>
+</p>
+
+---
 
 ### Feedback
 
-![Feedback](screenshots/feedback.jpeg)
+<p align="center">
+  <b>Feedback</b><br><br>
+  <img src="screenshots/feedback.jpeg" width="250"/>
+</p>
+
 
 
 ## Future Enhancements
