@@ -41,98 +41,81 @@ NariRakshak is a women's safety Android application designed to provide quick em
 
 The application includes the following interfaces:
 
-## Screenshots
-
-## Screenshots
-
-### Authentication
+<h3>Login Screen</h3>
 
 <p align="center">
-  <div align="center">
-    <b>Login Screen</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Sign In Screen</b>
-  </div>
-
   <img src="screenshots/login-screen.jpeg" width="250"/>
+</p>
+
+<h3>Sign In</h3>
+
+<p align="center">
   <img src="screenshots/sign-In.jpeg" width="250"/>
 </p>
 
----
-
-### Dashboard & Emergency
+<h3>Home Dashboard</h3>
 
 <p align="center">
-  <div align="center">
-    <b>Home Dashboard</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Emergency Helpline</b>
-  </div>
-
   <img src="screenshots/home-dashboard.jpeg" width="250"/>
+</p>
+
+<h3>Emergency Helpline</h3>
+
+<p align="center">
   <img src="screenshots/emergency-helpline.jpeg" width="250"/>
 </p>
 
----
-
-### Emergency Features
+<h3>Capture Photo</h3>
 
 <p align="center">
-  <div align="center">
-    <b>Capture Photo</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Emergency Contacts</b>
-  </div>
-
   <img src="screenshots/capture-photo.jpeg" width="250"/>
+</p>
+
+<h3>Emergency Contacts</h3>
+
+<p align="center">
   <img src="screenshots/emergency-contacts.jpeg" width="250"/>
 </p>
 
----
-
-### User Profile
+<h3>Profile</h3>
 
 <p align="center">
-  <div align="center">
-    <b>Profile</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Settings</b>
-  </div>
-
   <img src="screenshots/profile.jpeg" width="250"/>
+</p>
+
+<h3>Settings</h3>
+
+<p align="center">
   <img src="screenshots/settings.jpeg" width="250"/>
 </p>
 
----
-
-### Safety Resources
+<h3>Safety Tips</h3>
 
 <p align="center">
-  <div align="center">
-    <b>Safety Tips</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Safety Videos</b>
-  </div>
-
   <img src="screenshots/safety-tips.jpeg" width="250"/>
+</p>
+
+<h3>Safety Videos</h3>
+
+<p align="center">
   <img src="screenshots/safety-videos.jpeg" width="250"/>
 </p>
 
----
-
-### Navigation & History
+<h3>Map</h3>
 
 <p align="center">
-  <div align="center">
-    <b>Map</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Evidence History</b>
-  </div>
-
   <img src="screenshots/Map.jpeg" width="250"/>
+</p>
+
+<h3>Evidence History</h3>
+
+<p align="center">
   <img src="screenshots/evidence-history.jpeg" width="250"/>
 </p>
 
----
-
-### Feedback
+<h3>Feedback</h3>
 
 <p align="center">
-  <b>Feedback</b><br><br>
   <img src="screenshots/feedback.jpeg" width="250"/>
 </p>
 
