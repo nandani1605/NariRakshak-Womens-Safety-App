@@ -18,7 +18,7 @@ NariRakshak is a women's safety Android application designed to provide quick em
 - User Feedback System
 - Hindi and English Language Support
 
-- ## Technologies Used
+## Technologies Used
 
 - Android development
 - Java
@@ -37,23 +37,63 @@ NariRakshak is a women's safety Android application designed to provide quick em
 - Android SDK
 - Gradle Build System
 
-- ## Screenshots
+## Screenshots
 
 The application includes the following interfaces:
 
-- login-screen.jpeg
-- sign-in.jpeg
-- home-dashboard.jpeg
-- emergency-helpline.jpeg
-- capture-photo.jpeg
-- emergency-contacts.jpeg
-- profile.jpeg
-- safety-tips.jpeg
-- safety-videos.jpeg
-- screenshots/Map.jpeg
-- settings.jpeg
-- evidence-history.jpeg
-- feedback.jpeg
+## Screenshots
+
+### Login Screen
+
+![Login Screen](screenshots/login-screen.jpeg)
+
+### Sign In
+
+![Sign In](screenshots/sign-In.jpeg)
+
+### Home Dashboard
+
+![Home Dashboard](screenshots/home-dashboard.jpeg)
+
+### Emergency Helpline
+
+![Emergency Helpline](screenshots/emergency-helpline.jpeg)
+
+### Capture Photo
+
+![Capture Photo](screenshots/capture-photo.jpeg)
+
+### Emergency Contacts
+
+![Emergency Contacts](screenshots/emergency-contacts.jpeg)
+
+### Profile
+
+![Profile](screenshots/profile.jpeg)
+
+### Safety Tips
+
+![Safety Tips](screenshots/safety-tips.jpeg)
+
+### Safety Videos
+
+![Safety Videos](screenshots/safety-videos.jpeg)
+
+### Map
+
+![Map](screenshots/Map.jpeg)
+
+### Settings
+
+![Settings](screenshots/settings.jpeg)
+
+### Evidence History
+
+![Evidence History](screenshots/evidence-history.jpeg)
+
+### Feedback
+
+![Feedback](screenshots/feedback.jpeg)
 
 
 ## Future Enhancements
