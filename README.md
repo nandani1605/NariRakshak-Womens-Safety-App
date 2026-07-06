@@ -120,6 +120,21 @@ The application includes the following interfaces:
 </p>
 
 
+## Project Demonstration
+
+- APK Download: https://drive.google.com/file/d/1fEgGlYrFOypieCokkXF2pgn_SNLus2J-/view?usp=drive_link
+- Demo Video: https://drive.google.com/file/d/16fvsg-u9fcrQnRNREn6B1ImmG9nYQwj0/view?usp=drive_link
+- Source Code: Available in this GitHub repository
+
+## Project Structure
+
+**App Architecture & Classes**
+
+![App Architecture](screenshots/project-architecture.png)
+
+**Resources & Gradle Files**
+
+![Resources & Gradle](screenshots/project-resources.png)
 
 ## Future Enhancements
 
