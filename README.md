@@ -50,7 +50,7 @@ The application includes the following interfaces:
 - profile.jpeg
 - safety-tips.jpeg
 - safety-videos.jpeg
-- Map.jpeg
+- screenshots/Map.jpeg
 - settings.jpeg
 - evidence-history.jpeg
 - feedback.jpeg
